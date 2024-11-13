@@ -32,13 +32,14 @@
     </li>
     <li><strong>Step 2: Run a Project</strong>
         <ul>
-            <li>Each project is stored in a separate folder with a Jupyter Notebook or Python script. Navigate to the project folder and run:
-                <pre><code>jupyter notebook project_name.ipynb</code></pre>
+            <li>Each project is stored in a separate folder as a Python script. Navigate to the desired project folder and run the script:
+                <pre><code>python project_name.py</code></pre>
             </li>
-            <li>Open the notebook in Jupyter and follow the instructions to explore the code and outputs.</li>
+            <li>Follow the output and instructions in the script to explore the code and results.</li>
         </ul>
     </li>
 </ol>
+
 
 <h3>Project List</h3>
 <p>The following projects are organized from beginner to advanced. As each project is completed, this list will be updated with links to the code and detailed explanations.</p>
