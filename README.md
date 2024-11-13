@@ -44,7 +44,7 @@
 <p>The following projects are organized from beginner to advanced. As each project is completed, this list will be updated with links to the code and detailed explanations.</p>
 <ol>
     <li><a href="https://github.com/kelvintechnical/Data-Preprocessing-with-Scikit-Learn">Data Preprocessing with Scikit-Learn</a></li>
-    <li><a href="#">Linear Regression Model</a></li>
+    <li><a href="https://github.com/kelvintechnical/Linear-Regression-Model/blob/main/README.md">Linear Regression Model</a></li>
     <li><a href="#">Logistic Regression for Binary Classification</a></li>
     <li><a href="#">K-Nearest Neighbors (KNN) Classifier</a></li>
     <li><a href="#">Naive Bayes Text Classifier</a></li>
