@@ -45,7 +45,7 @@
 <ol>
     <li><a href="https://github.com/kelvintechnical/Data-Preprocessing-with-Scikit-Learn">Data Preprocessing with Scikit-Learn</a></li>
     <li><a href="https://github.com/kelvintechnical/Linear-Regression-Model/blob/main/README.md">Linear Regression Model</a></li>
-    <li><a href="#">Logistic Regression for Binary Classification</a></li>
+    <li><a href="https://github.com/kelvintechnical/Logistic-Regression-for-Binary-Classification-">Logistic Regression for Binary Classification</a></li>
     <li><a href="#">K-Nearest Neighbors (KNN) Classifier</a></li>
     <li><a href="#">Naive Bayes Text Classifier</a></li>
     <li><a href="#">Decision Tree Classifier</a></li>
