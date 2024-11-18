@@ -49,7 +49,7 @@
     <li><a href="https://github.com/kelvintechnical/Logistic-Regression-for-Binary-Classification-">Logistic Regression for Binary Classification</a></li>
     <li><a href="https://github.com/kelvintechnical/K-Nearest-Neighbors-KNN-Classifier/blob/main/README.md">K-Nearest Neighbors (KNN) Classifier</a></li>
     <li><a href="https://github.com/kelvintechnical/K-Nearest-Neighbors-Classifier">Naive Bayes Text Classifier</a></li>
-    <li><a href="#">Decision Tree Classifier</a></li>
+    <li><a href="https://github.com/kelvintechnical/Decision-Tree-Classifier/blob/main/README.md">Decision Tree Classifier</a></li>
     <li><a href="#">Random Forest Classifier</a></li>
     <li><a href="#">Support Vector Machine (SVM) for Classification</a></li>
     <li><a href="#">K-Means Clustering</a></li>
