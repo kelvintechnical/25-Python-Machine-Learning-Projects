@@ -50,6 +50,8 @@
     <li><a href="https://github.com/kelvintechnical/K-Nearest-Neighbors-KNN-Classifier/blob/main/README.md">K-Nearest Neighbors (KNN) Classifier</a></li>
     <li><a href="https://github.com/kelvintechnical/K-Nearest-Neighbors-Classifier">Naive Bayes Text Classifier</a></li>
     <li><a href="https://github.com/kelvintechnical/Decision-Tree-Classifier/blob/main/README.md">Decision Tree Classifier</a></li>
+
+    <!--
     <li><a href="#">Random Forest Classifier</a></li>
     <li><a href="#">Support Vector Machine (SVM) for Classification</a></li>
     <li><a href="#">K-Means Clustering</a></li>
@@ -69,6 +71,7 @@
     <li><a href="#">Real-Time Sentiment Analysis with LSTM</a></li>
     <li><a href="#">Speech Recognition with DeepSpeech</a></li>
     <li><a href="#">Neural Style Transfer</a></li>
+    -->
 </ol>
 
 <h3>Features</h3>
