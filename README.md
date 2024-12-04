@@ -75,8 +75,8 @@
     </a>
 </p>
 <p>
-    <a href="https://x.com/kelvintechnical" target="_blank" style="text-decoration: none;">
-        <button style="background-color: #1DA1F2; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px;"> Follow Me on X </button>
+    <a href="https://bsky.app/profile/kelvinintech.bsky.social" target="_blank" style="text-decoration: none;">
+        <button style="background-color: #1DA1F2; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px;"> Follow Me on Bluesky </button>
     </a>
 </p>
 
