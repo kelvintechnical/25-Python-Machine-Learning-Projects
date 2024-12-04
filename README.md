@@ -51,27 +51,8 @@
     <li><a href="https://github.com/kelvintechnical/K-Nearest-Neighbors-Classifier">Naive Bayes Text Classifier</a></li>
     <li><a href="https://github.com/kelvintechnical/Decision-Tree-Classifier/blob/main/README.md">Decision Tree Classifier</a></li>
 
-    <!--
-    <li><a href="#">Random Forest Classifier</a></li>
-    <li><a href="#">Support Vector Machine (SVM) for Classification</a></li>
-    <li><a href="#">K-Means Clustering</a></li>
-    <li><a href="#">Principal Component Analysis (PCA)</a></li>
-    <li><a href="#">Sentiment Analysis with TextBlob</a></li>
-    <li><a href="#">Image Classification with CNNs (TensorFlow)</a></li>
-    <li><a href="#">Spam Detection using NLP</a></li>
-    <li><a href="#">Time Series Analysis with ARIMA</a></li>
-    <li><a href="#">Face Recognition System</a></li>
-    <li><a href="#">House Price Prediction with Regression Models</a></li>
-    <li><a href="#">Customer Segmentation with Clustering</a></li>
-    <li><a href="#">Reinforcement Learning with OpenAI Gym</a></li>
-    <li><a href="#">Object Detection with YOLO</a></li>
-    <li><a href="#">Natural Language Processing with BERT</a></li>
-    <li><a href="#">Generative Adversarial Networks (GANs) for Image Generation</a></li>
-    <li><a href="#">Recommendation System with Collaborative Filtering</a></li>
-    <li><a href="#">Real-Time Sentiment Analysis with LSTM</a></li>
-    <li><a href="#">Speech Recognition with DeepSpeech</a></li>
-    <li><a href="#">Neural Style Transfer</a></li>
-    -->
+
+    
 </ol>
 
 <h3>Features</h3>
